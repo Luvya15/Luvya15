@@ -10,7 +10,7 @@
 ✨ The Goal: Bridging the gap between the precision of life sciences and the endless possibilities of tech.
 
 🛠️ Current Toolbox:-
-Web Tech: HTML5 • CSS3 • Tailwind CSS • React
+Web Tech: HTML5 • CSS3 • React
 
 Mindset: Data structures • Algorithmic logic • Computational science
 
